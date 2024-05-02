@@ -18,6 +18,8 @@ El corpus ha sido compilado utilizando las siguientes fuentes:
 El corpus está organizado en archivos de textos en pdf, cada uno correspondiente a una fuente de datos diferente. Los archivos que conforman el corpus son los siguientes:
 
 - Rimana 2. https://repositorio.minedu.gob.pe/handle/20.500.12799/10015 (Renzo)
+- Kasarakuy raymimanta. https://repositorio.minedu.gob.pe/handle/20.500.12799/6658 (Harvy)
+- Willakuykuna mayt’u - Collao Literatura 1 - 1° Secundaria - Quechua collao. https://hdl.handle.net/20.500.12799/10037 (Amy)
 
 ## Proceso de Extracción
 La extracción de datos se realizó a través de las siguientes etapas:
