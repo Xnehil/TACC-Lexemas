@@ -32,7 +32,9 @@ El corpus está organizado en un csv con oraciones extraídas de pdfs. Los archi
    - 4 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 4° Secundaria - Quechua Collao. [Link]
    - 5 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 5° Secundaria - Quechua Collao. [Link]
 ### Amy
-   - Willakuykuna mayt’u - Collao Literatura 1 - 1° Secundaria - Quechua collao. https://hdl.handle.net/20.500.12799/10037 (Amy)
+   - Willakuykuna mayt’u - Collao Literatura 1 - 1° Secundaria - Quechua collao. https://hdl.handle.net/20.500.12799/10037
+   - Willakuykuna mayt’u - Collao : Literatura - Comunicación quechua, variante Collao. https://hdl.handle.net/20.500.12799/7580
+   - Willakuykuna mayt’u - Collao Literatura 2 - 2° Secundaria - Quechua collao. https://hdl.handle.net/20.500.12799/10053
 
 ## Proceso de Extracción
 La extracción de datos se realizó a través de las siguientes etapas:
