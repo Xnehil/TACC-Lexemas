@@ -18,7 +18,14 @@ El corpus ha sido compilado utilizando las siguientes fuentes:
 El corpus está organizado en un csv con oraciones extraídas de pdfs. Los archivos que se usaron para construir el corpus son los siguientes:
 
 ### Renzo
-   - Rimana 2. https://repositorio.minedu.gob.pe/handle/20.500.12799/10015 (Renzo)
+Todas los documentos se obtuvieron de https://repositorio.minedu.gob.pe/browse?type=subject&value=Quechua+Collao
+   - 2 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 2° Secundaria - Quechua Collao
+   - Ayllupi yachasunchik 3 ñiqi Qullaw qichwapi. Texto de Comunicación del 3° Primaria - Quechua Collao
+   - Huk kutis kaq kasqa Literatura 2 quechua collao
+   - Huk kutis kaq kasqa. Literatura 1 - 5° Primaria - Quechua collao
+   - Llaqtanchikpa kawsayninkuna Saberes de los pueblos 2 - 2° Secundaria - Quechua collao
+   - Llaqtanchikpa kawsayninkuna. Saberes de los pueblos 1 - 1° Secundaria - Quechua collao
+   - Willakuykuna mayt’u - Collao Literatura 1 - 1° Secundaria - Quechua collao
   
 ### Harvy
    - Kasarakuy raymimanta. [Link](https://repositorio.minedu.gob.pe/handle/20.500.12799/6658)
