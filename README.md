@@ -15,24 +15,30 @@ El corpus ha sido compilado utilizando las siguientes fuentes:
    - Método de extracción: Utilización de herramientas de OCR para convertir documentos escaneados a texto.
 
 ## Estructura del Corpus
-El corpus está organizado en archivos de textos en pdf, cada uno correspondiente a una fuente de datos diferente. Los archivos que conforman el corpus son los siguientes:
+El corpus está organizado en un csv con oraciones extraídas de pdfs. Los archivos que se usaron para construir el corpus son los siguientes:
 
-- Rimana 2. https://repositorio.minedu.gob.pe/handle/20.500.12799/10015 (Renzo)
-- Kasarakuy raymimanta. https://repositorio.minedu.gob.pe/handle/20.500.12799/6658 (Harvy)
-- Willakuykuna mayt’u - Collao Literatura 1 - 1° Secundaria - Quechua collao. https://hdl.handle.net/20.500.12799/10037 (Amy)
+### Renzo
+   - Rimana 2. https://repositorio.minedu.gob.pe/handle/20.500.12799/10015 (Renzo)
+  
+### Harvy
+   - Kasarakuy raymimanta. [Link](https://repositorio.minedu.gob.pe/handle/20.500.12799/6658)
+   - Alelipa munaqusqan waqaychanankuna. Historias y Relatos 5 - Inicial - Quechua Collao. [Link]
+   - Ayllunchikpa willakuyninkuna. Historias y relatos 2 - Inicial - Quechua Collao. [Link]
+   - Liqichumanta. Historias y relatos 1 - Inicial - Quechua Collao. [Link]
+   - Muhu papa rikch’arichiymanta. Historias y relatos 3 - Inicial - Quechua Collao. [Link]
+   - Papa allay. Historias y Relatos 4 - Inicial - Quechua Collao. [Link]
+   - 1 Rimana. Qichwa - Qullawpi llamk'ana mayt'u. Cuaderno de trabajo - Comunicación 1° - Quechua Collao. [Link]
+   - 3 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 3° Secundaria - Quechua Collao. [Link]
+   - 4 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 4° Secundaria - Quechua Collao. [Link]
+   - 5 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 5° Secundaria - Quechua Collao. [Link]
+### Amy
+   - Willakuykuna mayt’u - Collao Literatura 1 - 1° Secundaria - Quechua collao. https://hdl.handle.net/20.500.12799/10037 (Amy)
 
 ## Proceso de Extracción
 La extracción de datos se realizó a través de las siguientes etapas:
 
 1. **Conversión de PDF a Texto**: Se utilizó Adobe Acrobat y herramientas de OCR para convertir los archivos PDF a texto.
 2. **Limpieza de Datos**: Se realizó una limpieza inicial para eliminar encabezados, pies de página y cualquier otro contenido no relevante.
-3. **Normalización de Texto**: Se normalizaron los caracteres especiales y se corrigieron errores de OCR.
+3. **Normalización de Texto**: Se normalizaron los caracteres especiales.
 
-## Uso del Corpus
-Para utilizar este corpus en proyectos de NLP, simplemente descargue los archivos de texto y cárguelos en su entorno de desarrollo. Asegúrese de respetar cualquier término de uso asociado con las fuentes de datos originales.
 
-## Licencia
-Este corpus se proporciona bajo la licencia [incluir tipo de licencia aquí], que permite/restringe [describir brevemente lo que la licencia permite o restringe].
-
-## Contacto
-Para más información o consultas sobre el corpus, por favor contactar a [Nombre del Responsable] en [Correo Electrónico].
