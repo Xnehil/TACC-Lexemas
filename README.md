@@ -36,6 +36,8 @@ El corpus está organizado en un csv con oraciones extraídas de pdfs. Los archi
    - Willakuykuna mayt’u - Collao : Literatura - Comunicación quechua, variante Collao. https://hdl.handle.net/20.500.12799/7580
    - Willakuykuna mayt’u - Collao Literatura 2 - 2° Secundaria - Quechua collao. https://hdl.handle.net/20.500.12799/10053
    - Ayllupi yachasunchik 1 ñiqi qullaw qichwapi. Texto de Comunicación del 1° Primaria - Quechua Collao. https://hdl.handle.net/20.500.12799/9978
+   - Ñawinchanapaq munay qillqasqakuna : quechua Cusco-Collao. Evaluación Censal de Estudiantes. https://hdl.handle.net/20.500.12799/3877
+   
    
 
 ## Proceso de Extracción
