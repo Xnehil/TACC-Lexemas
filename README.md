@@ -49,7 +49,14 @@ Todas los documentos se obtuvieron de https://repositorio.minedu.gob.pe/browse?t
    - Ñawinchanapaq munay qillqasqakuna 2019 : Qusqu Qullaw qhichwa simi https://hdl.handle.net/20.500.12799/6712
    - Kuska yachasunchik : cuaderno de trabajo y folder - inicial 5 años - Quechua Collao https://hdl.handle.net/20.500.12799/8177
    
-   
+### Ronald
+
+	- Willakuykuna maytu - Chanka Literatura 1 - 1° Secundaria - Quechua chanka https://repositorio.minedu.gob.pe/handle/20.500.12799/10036
+	- Willakuykuna maytu - Chanka Literatura 2 - 2° Secundaria - Quechua chanka https://repositorio.minedu.gob.pe/handle/20.500.12799/10052
+	- Willakuykuna maytu - Chanka. Literatura - quechua https://repositorio.minedu.gob.pe/handle/20.500.12799/10136
+	- 2 Rimana - Qillqasqa maytu - Qichwa, Chanka. Texto de Comunicación del 2° Secundaria - Quechua chanka https://repositorio.minedu.gob.pe/handle/20.500.12799/10015
+	- 3 Rimana - Qillqasqa maytu - Qichwa, Chanka. Texto de Comunicación del 3° de Secundaria - Quechua, Chanka https://repositorio.minedu.gob.pe/handle/20.500.12799/10022
+	- manualparaelempleodelquechuachankaenlaadministraciondejusticia https://repositorio.cultura.gob.pe/bitstream/handle/CULTURA/51/manualparaelempleodelquechuachankaenlaadministraciondejusticia.pdf?sequence=1&isAllowed=y
    
    
 
