@@ -4,15 +4,11 @@
 Este proyecto tiene como objetivo desarrollar un corpus en Quechua Sureño para la creación de una herramienta de generación de textos narrativos. Estos textos están destinados a ser utilizados en material educativo y herramientas de práctica de comprensión escrita.
 
 ## Fuentes del Corpus
-El corpus ha sido compilado utilizando las siguientes fuentes:
+El corpus ha sido compilado utilizando el siguiente repositorio:
 
 1. **Repositorio de Textos Educativos del MINEDU**
    - Descripción: Colección de textos educativos proporcionados por el Ministerio de Educación del Perú.
    - Método de extracción: Los textos en formato PDF fueron convertidos a texto plano utilizando herramientas de `pdf-to-text`.
-
-2. **Archivos del Summer Institute of Linguistics “Language and Culture Archives”**
-   - Descripción: Archivos que contienen datos lingüísticos y culturales sobre el Quechua Sureño.
-   - Método de extracción: Utilización de herramientas de OCR para convertir documentos escaneados a texto.
 
 ## Estructura del Corpus
 El corpus está organizado en un csv con oraciones extraídas de pdfs. Los archivos que se usaron para construir el corpus son los siguientes:
@@ -29,15 +25,15 @@ Todas los documentos se obtuvieron de https://repositorio.minedu.gob.pe/browse?t
   
 ### Harvy
    - Kasarakuy raymimanta. [Link](https://repositorio.minedu.gob.pe/handle/20.500.12799/6658)
-   - Alelipa munaqusqan waqaychanankuna. Historias y Relatos 5 - Inicial - Quechua Collao. [Link]
-   - Ayllunchikpa willakuyninkuna. Historias y relatos 2 - Inicial - Quechua Collao. [Link]
-   - Liqichumanta. Historias y relatos 1 - Inicial - Quechua Collao. [Link]
-   - Muhu papa rikch’arichiymanta. Historias y relatos 3 - Inicial - Quechua Collao. [Link]
-   - Papa allay. Historias y Relatos 4 - Inicial - Quechua Collao. [Link]
-   - 1 Rimana. Qichwa - Qullawpi llamk'ana mayt'u. Cuaderno de trabajo - Comunicación 1° - Quechua Collao. [Link]
-   - 3 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 3° Secundaria - Quechua Collao. [Link]
-   - 4 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 4° Secundaria - Quechua Collao. [Link]
-   - 5 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 5° Secundaria - Quechua Collao. [Link]
+   - Alelipa munaqusqan waqaychanankuna. Historias y Relatos 5 - Inicial - Quechua Collao. [Link](https://repositorio.minedu.gob.pe/handle/20.500.12799/9929)
+   - Ayllunchikpa willakuyninkuna. Historias y relatos 2 - Inicial - Quechua Collao. [Link](https://hdl.handle.net/20.500.12799/9883)
+   - Liqichumanta. Historias y relatos 1 - Inicial - Quechua Collao. [Link](https://hdl.handle.net/20.500.12799/9864)
+   - Muhu papa rikch’arichiymanta. Historias y relatos 3 - Inicial - Quechua Collao. [Link](https://hdl.handle.net/20.500.12799/9902)
+   - Papa allay. Historias y Relatos 4 - Inicial - Quechua Collao. [Link](https://hdl.handle.net/20.500.12799/9919)
+   - 1 Rimana. Qichwa - Qullawpi llamk'ana mayt'u. Cuaderno de trabajo - Comunicación 1° - Quechua Collao. [Link](https://hdl.handle.net/20.500.12799/8196)
+   - 3 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 3° Secundaria - Quechua Collao. [Link](https://repositorio.minedu.gob.pe/handle/20.500.12799/10023)
+   - 4 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 4° Secundaria - Quechua Collao. [Link](https://hdl.handle.net/20.500.12799/10028)
+   - 5 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 5° Secundaria - Quechua Collao. [Link](https://hdl.handle.net/20.500.12799/10031)
 ### Amy
    - Willakuykuna mayt’u - Collao Literatura 1 - 1° Secundaria - Quechua collao. [Link](https://hdl.handle.net/20.500.12799/10037)
    - Willakuykuna mayt’u - Collao : Literatura - Comunicación quechua, variante Collao. [Link](https://hdl.handle.net/20.500.12799/7580)
@@ -80,12 +76,5 @@ Todas los documentos se obtuvieron de https://repositorio.minedu.gob.pe/browse?t
 - Ñawinchana Maytu 2 Quechua - Chanka. Texto de Comunicación del 2° Primaria - Quechua Chanka
 - Ñawinchana Maytu 3 Quechua - Chanka. Texto de Comunicación del 3 ° Primaria - Quechua Chanka
 - Ñawinchanapaq munay qillqasqakuna 2019 - Quechua Chanka
-
-## Proceso de Extracción
-La extracción de datos se realizó a través de las siguientes etapas:
-
-1. **Conversión de PDF a Texto**: Se utilizó Adobe Acrobat y herramientas de OCR para convertir los archivos PDF a texto.
-2. **Limpieza de Datos**: Se realizó una limpieza inicial para eliminar encabezados, pies de página y cualquier otro contenido no relevante.
-3. **Normalización de Texto**: Se normalizaron los caracteres especiales.
 
 
