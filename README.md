@@ -57,7 +57,27 @@ Todas los documentos se obtuvieron de https://repositorio.minedu.gob.pe/browse?t
    - 3 Rimana - Qillqasqa maytu - Qichwa, Chanka. Texto de Comunicación del 3° de Secundaria - Quechua, Chanka https://repositorio.minedu.gob.pe/handle/20.500.12799/10022
    - manualparaelempleodelquechuachankaenlaadministraciondejusticia https://repositorio.cultura.gob.pe/bitstream/handle/CULTURA/51/manualparaelempleodelquechuachankaenlaadministraciondejusticia.pdf?sequence=1&isAllowed=y
    
-   
+### Paolo
+- 4 Rimana - Qillqasqa maytu - Qichwa, Chanka. Texto de Comunicación del 4° de Secundaria - Quechua Chanka
+- 5 Rimana - Qillqasqa maytu - Qichwa, Chanka. Texto de Comunicación del 5° Secundaria - Quechua Chanka
+- Anqarakunapa kawsakuyninmanta. Literatura 2 - 4° Primaria - Quechua Chanka
+- Antuku hampatuwan. Historias y relatos 2- Inicial - Quechua Chanka
+- Ayllunchikpa Willakuyninkuna. Historias y relatos 1 - Inicial - Quechua Chanka
+- Añañaw. Willakuy 4 - Quechua Chanka
+- Cuentos_3-3-1 - Quechua Collao
+- Hanaq pachaman qispiq atuqman. Willakuy 9 - Quechua Chanka
+- Kicharisqa ñawiywanmi ñuqa uyarini. Willakuy 2 - Quechua Chanka
+- Llaqtanchikpa kawsayninkuna - Chanka Saberes de los pueblos 1 - 1° Secundaria - Quechua chanka
+- Llaqtaypa Kawsayninkuna. Saberes de los pueblos - 4° Primaria - Quechua Chanka
+- Maychi hampimanta. Historias y relatos 3- Inicial - Quechua Chanka
+- Muki. Willakuy 11 - Quechua Chanka
+- Pawqar llikllachay- Willakuy 3 - Quechua Chanka
+- Poemas en Quechua de Cusco - Quechua Collao
+- Qintiwan Amaru. Historias y relatos 4 - Inicial - Quechua Chanka
+- Ñawichana Maytu 1 Quechua - Chanka. Texto de Comunicación del 1° Primaria - Quechua Chanka
+- Ñawinchana Maytu 2 Quechua - Chanka. Texto de Comunicación del 2° Primaria - Quechua Chanka
+- Ñawinchana Maytu 3 Quechua - Chanka. Texto de Comunicación del 3 ° Primaria - Quechua Chanka
+- Ñawinchanapaq munay qillqasqakuna 2019 - Quechua Chanka
 
 ## Proceso de Extracción
 La extracción de datos se realizó a través de las siguientes etapas:
