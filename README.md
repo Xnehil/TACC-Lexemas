@@ -77,11 +77,4 @@ Todas los documentos se obtuvieron de https://repositorio.minedu.gob.pe/browse?t
 - Ñawinchana Maytu 3 Quechua - Chanka. Texto de Comunicación del 3 ° Primaria - Quechua Chanka
 - Ñawinchanapaq munay qillqasqakuna 2019 - Quechua Chanka
 
-## Proceso de Extracción
-La extracción de datos se realizó a través de las siguientes etapas:
-
-1. **Conversión de PDF a Texto**: Se utilizó Adobe Acrobat y herramientas de OCR para convertir los archivos PDF a texto.
-2. **Limpieza de Datos**: Se realizó una limpieza inicial para eliminar encabezados, pies de página y cualquier otro contenido no relevante.
-3. **Normalización de Texto**: Se normalizaron los caracteres especiales.
-
 
