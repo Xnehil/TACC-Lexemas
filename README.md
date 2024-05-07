@@ -39,15 +39,17 @@ Todas los documentos se obtuvieron de https://repositorio.minedu.gob.pe/browse?t
    - 4 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 4° Secundaria - Quechua Collao. [Link]
    - 5 Rimana - Qillqasqa Mayt’u Qichwa Qullaw. Texto de Comunicación del 5° Secundaria - Quechua Collao. [Link]
 ### Amy
-   - Willakuykuna mayt’u - Collao Literatura 1 - 1° Secundaria - Quechua collao. https://hdl.handle.net/20.500.12799/10037
-   - Willakuykuna mayt’u - Collao : Literatura - Comunicación quechua, variante Collao. https://hdl.handle.net/20.500.12799/7580
-   - Willakuykuna mayt’u - Collao Literatura 2 - 2° Secundaria - Quechua collao. https://hdl.handle.net/20.500.12799/10053
-   - Ayllupi yachasunchik 1 ñiqi qullaw qichwapi. Texto de Comunicación del 1° Primaria - Quechua Collao. https://hdl.handle.net/20.500.12799/9978
-   - Ñawinchanapaq munay qillqasqakuna : quechua Cusco-Collao. Evaluación Censal de Estudiantes. https://hdl.handle.net/20.500.12799/3877
-   - Sumaq Kawsay 1 - quechua collao. Cuaderno de trabajo - Personal Social - Ciencia y Tecnología 1 - Quechua collao https://hdl.handle.net/20.500.12799/8198
-   - Llaqtanchikpa kawsayninkuna : saberes de los pueblos - Comunicación y Ciencia y Tecnología quechua, variante Collao https://hdl.handle.net/20.500.12799/7574
-   - Ñawinchanapaq munay qillqasqakuna 2019 : Qusqu Qullaw qhichwa simi https://hdl.handle.net/20.500.12799/6712
-   - Kuska yachasunchik : cuaderno de trabajo y folder - inicial 5 años - Quechua Collao https://hdl.handle.net/20.500.12799/8177
+   - Willakuykuna mayt’u - Collao Literatura 1 - 1° Secundaria - Quechua collao. [Link](https://hdl.handle.net/20.500.12799/10037)
+   - Willakuykuna mayt’u - Collao : Literatura - Comunicación quechua, variante Collao. [Link](https://hdl.handle.net/20.500.12799/7580)
+   - Willakuykuna mayt’u - Collao Literatura 2 - 2° Secundaria - Quechua collao. [Link](https://hdl.handle.net/20.500.12799/10053)
+   - Ayllupi yachasunchik 1 ñiqi qullaw qichwapi. Texto de Comunicación del 1° Primaria - Quechua Collao. [Link](https://hdl.handle.net/20.500.12799/9978)
+   - Ñawinchanapaq munay qillqasqakuna : quechua Cusco-Collao. Evaluación Censal de Estudiantes. [Link](https://hdl.handle.net/20.500.12799/3877)
+   - Sumaq Kawsay 1 - quechua collao. Cuaderno de trabajo - Personal Social - Ciencia y Tecnología 1 - Quechua collao [Link](https://hdl.handle.net/20.500.12799/8198)
+   - Llaqtanchikpa kawsayninkuna : saberes de los pueblos - Comunicación y Ciencia y Tecnología quechua, variante Collao [Link](https://hdl.handle.net/20.500.12799/7574)
+   - Ñawinchanapaq munay qillqasqakuna 2019 : Qusqu Qullaw qhichwa simi [Link](https://hdl.handle.net/20.500.12799/6712)
+   - Kuska yachasunchik : cuaderno de trabajo y folder - inicial 5 años - Quechua Collao [Link](https://hdl.handle.net/20.500.12799/8177)
+   - Kuska yachasunchik cuaderno de trabajo y folder - inicial 4 años - Quechua chanka [Link](https://hdl.handle.net/20.500.12799/7438)
+   - Ñawinchanapaq munay qillqasqakuna quechua Chanka [Link](https://hdl.handle.net/20.500.12799/3878)
    
 ### Ronald
    - Willakuykuna maytu - Chanka Literatura 1 - 1° Secundaria - Quechua chanka https://repositorio.minedu.gob.pe/handle/20.500.12799/10036
