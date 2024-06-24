@@ -1,5 +1,7 @@
-pandas
-nltk
-fitz
-langdetect
-langid
+streamlit
+numpy
+tqdm
+transformers[torch]
+tokenizers
+accelerate
+gdown
