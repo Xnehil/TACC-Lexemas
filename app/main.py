@@ -1,9 +1,14 @@
 from model import QuechuaModel
 import streamlit as st
 
+st.set_page_config(
+    page_title="Lexemas - Generador de cuentos en Quechua Sureño",
+    layout="wide",
+    initial_sidebar_state="expanded",
+)
 st.markdown(f"## Lexemas - Generador de cuentos en Quechua Sureño\n---\n")
 
-st.sidebar.title("Parametros")
+st.sidebar.title("Parámetros")
 prompt = st.text_area("Prompt", height=200)
 max_length = st.sidebar.slider("Max Length", 50, 1000, 200)
 temperature = st.sidebar.slider("Temperature", 0.1, 1.0, 0.7)
@@ -21,4 +26,4 @@ if st.button("Generar cuento"):
             )
             st.markdown(f"---\n**Cuento generado**:\n\n{story}")
     else:
-        st.warning("Please enter a prompt for story generation")
+        st.warning("Por favor, ingrese un prompt para generar el cuento.")
